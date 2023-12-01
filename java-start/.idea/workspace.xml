@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/OperationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Assign1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Comp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Comp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Logical1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Logical2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/OperatorAdd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/operator/OperatorAdd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/ConOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/If1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/If2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/If3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/If4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/If5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/cond/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/ExchangeRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/ScoreEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,16 +63,17 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="variable.ex" />
+      <recent name="variable.cond" />
       <recent name="variable.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperationEx3">
-    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.operator.Assign1" />
+  <component name="RunManager" selected="Application.ExchangeRateEx">
+    <configuration name="ConOp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.cond.ConOp1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.operator.*" />
+          <option name="PATTERN" value="variable.cond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,21 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logical1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.operator.Logical1" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.operator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.OperationEx1" />
+    <configuration name="ExchangeRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.ExchangeRateEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.OperationEx2" />
+    <configuration name="ScoreEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.ScoreEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -121,12 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.OperationEx3" />
+    <configuration name="Switch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.cond.Switch1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="variable.cond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.cond.Switch2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.cond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperationEx3" />
-        <item itemvalue="Application.OperationEx2" />
-        <item itemvalue="Application.OperationEx1" />
-        <item itemvalue="Application.Assign1" />
-        <item itemvalue="Application.Logical1" />
+        <item itemvalue="Application.ExchangeRateEx" />
+        <item itemvalue="Application.ScoreEx" />
+        <item itemvalue="Application.ConOp1" />
+        <item itemvalue="Application.Switch2" />
+        <item itemvalue="Application.Switch1" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +155,9 @@
       <workItem from="1701248464363" duration="24000" />
       <workItem from="1701334686882" duration="17000" />
       <workItem from="1701334753740" duration="17000" />
-      <workItem from="1701389768476" duration="4080000" />
+      <workItem from="1701389768476" duration="4343000" />
+      <workItem from="1701408419263" duration="606000" />
+      <workItem from="1701409266633" duration="2626000" />
     </task>
     <servers />
   </component>
