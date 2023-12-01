@@ -5,6 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/OperationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Assign1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Comp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Comp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Logical1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Logical2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/OperatorAdd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/operator/OperatorAdd2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +62,19 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VarEx3">
-    <configuration name="Var3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var3" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="variable.ex" />
+      <recent name="variable.operator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OperationEx3">
+    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.operator.Assign1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var5" />
+    <configuration name="Logical1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.operator.Logical1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var6" />
+    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.OperationEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var7" />
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.OperationEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx3" />
+    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.OperationEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarEx3" />
-        <item itemvalue="Application.Var7" />
-        <item itemvalue="Application.Var6" />
-        <item itemvalue="Application.Var5" />
-        <item itemvalue="Application.Var3" />
+        <item itemvalue="Application.OperationEx3" />
+        <item itemvalue="Application.OperationEx2" />
+        <item itemvalue="Application.OperationEx1" />
+        <item itemvalue="Application.Assign1" />
+        <item itemvalue="Application.Logical1" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +154,9 @@
       <updated>1701131340766</updated>
       <workItem from="1701131342806" duration="6960000" />
       <workItem from="1701248464363" duration="24000" />
-      <workItem from="1701334686882" duration="6000" />
+      <workItem from="1701334686882" duration="17000" />
+      <workItem from="1701334753740" duration="17000" />
+      <workItem from="1701389768476" duration="4080000" />
     </task>
     <servers />
   </component>
