@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/While2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/While2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/While2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/DoWhile2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +59,13 @@
       <recent name="variable.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While2_3">
-    <configuration name="EvenOddEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.EvenOddEx" />
+  <component name="RunManager" selected="Application.DoWhile2">
+    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.loop.DoWhile2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="variable.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhile2" />
         <item itemvalue="Application.While2_3" />
         <item itemvalue="Application.While2_1" />
         <item itemvalue="Application.While1_2" />
         <item itemvalue="Application.While1_1" />
-        <item itemvalue="Application.EvenOddEx" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +150,7 @@
       <workItem from="1701389768476" duration="4343000" />
       <workItem from="1701408419263" duration="606000" />
       <workItem from="1701409266633" duration="3865000" />
-      <workItem from="1701646924173" duration="878000" />
+      <workItem from="1701646924173" duration="1240000" />
     </task>
     <servers />
   </component>
