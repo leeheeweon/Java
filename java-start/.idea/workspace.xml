@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/Break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/Break2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/WhileEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,19 +58,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="variable.loop.ex" />
       <recent name="variable.loop" />
       <recent name="variable.ex" />
       <recent name="variable.cond" />
       <recent name="variable.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Break2">
-    <configuration name="Break1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.Break1" />
+  <component name="RunManager" selected="Application.ForEx3">
+    <configuration name="ForEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.ForEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.*" />
+          <option name="PATTERN" value="variable.loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Break2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.Break2" />
+    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.ForEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.*" />
+          <option name="PATTERN" value="variable.loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.DoWhile2" />
+    <configuration name="ForEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.ForEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.*" />
+          <option name="PATTERN" value="variable.loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.For1" />
+    <configuration name="WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.WhileEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.*" />
+          <option name="PATTERN" value="variable.loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.For2" />
+    <configuration name="WhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.WhileEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.*" />
+          <option name="PATTERN" value="variable.loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Break2" />
-        <item itemvalue="Application.For2" />
-        <item itemvalue="Application.For1" />
-        <item itemvalue="Application.Break1" />
-        <item itemvalue="Application.DoWhile2" />
+        <item itemvalue="Application.ForEx3" />
+        <item itemvalue="Application.WhileEx3" />
+        <item itemvalue="Application.ForEx2" />
+        <item itemvalue="Application.WhileEx2" />
+        <item itemvalue="Application.ForEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +157,7 @@
       <workItem from="1701408419263" duration="606000" />
       <workItem from="1701409266633" duration="3865000" />
       <workItem from="1701646924173" duration="2191000" />
-      <workItem from="1701664554395" duration="505000" />
+      <workItem from="1701664554395" duration="1532000" />
     </task>
     <servers />
   </component>
