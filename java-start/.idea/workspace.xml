@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/NestedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/loop/ex/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/casting/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/casting/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/casting/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/casting/Casting4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/scope/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/scope/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/scope/Scope3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/scope/Scope3_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +59,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="variable.casting" />
+      <recent name="variable.scope" />
       <recent name="variable.loop.ex" />
       <recent name="variable.loop" />
       <recent name="variable.ex" />
-      <recent name="variable.cond" />
-      <recent name="variable.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedEx2">
-    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.ForEx2" />
+  <component name="RunManager" selected="Application.Casting4">
+    <configuration name="Casting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.casting.Casting2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.ex.*" />
+          <option name="PATTERN" value="variable.casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.ForEx3" />
+    <configuration name="Casting3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.casting.Casting3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.ex.*" />
+          <option name="PATTERN" value="variable.casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.NestedEx1" />
+    <configuration name="Casting4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.casting.Casting4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.ex.*" />
+          <option name="PATTERN" value="variable.casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.NestedEx2" />
+    <configuration name="Scope2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.scope.Scope2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.ex.*" />
+          <option name="PATTERN" value="variable.scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.loop.ex.WhileEx3" />
+    <configuration name="Scope3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.scope.Scope3_1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.loop.ex.*" />
+          <option name="PATTERN" value="variable.scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedEx2" />
-        <item itemvalue="Application.NestedEx1" />
-        <item itemvalue="Application.ForEx3" />
-        <item itemvalue="Application.WhileEx3" />
-        <item itemvalue="Application.ForEx2" />
+        <item itemvalue="Application.Casting4" />
+        <item itemvalue="Application.Casting3" />
+        <item itemvalue="Application.Casting2" />
+        <item itemvalue="Application.Scope3_1" />
+        <item itemvalue="Application.Scope2" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +158,8 @@
       <workItem from="1701408419263" duration="606000" />
       <workItem from="1701409266633" duration="3865000" />
       <workItem from="1701646924173" duration="2191000" />
-      <workItem from="1701664554395" duration="2540000" />
+      <workItem from="1701664554395" duration="2563000" />
+      <workItem from="1701735519206" duration="4941000" />
     </task>
     <servers />
   </component>
