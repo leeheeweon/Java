@@ -5,14 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/scanner/ChangeVarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/scanner/ScannerEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/scanner/ScannerWhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/scanner/ScannerWhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/scanner/ScannerWhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/scanner/ScannerWhileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/Array1Ref1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/Array1Ref2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/Array1Ref3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/Array1Ref4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ArrayDi0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ArrayDi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ArrayDi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ArrayDi3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ArrayDi4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/EnhancedFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ex/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ex/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/array/ex/ArrayEx5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/scanner/ScannerEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/scanner/ScannerEx4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +67,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="variable.array.ex" />
+      <recent name="variable.array" />
       <recent name="variable.scanner" />
       <recent name="variable.casting" />
       <recent name="variable.scope" />
-      <recent name="variable.loop.ex" />
-      <recent name="variable.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerWhileEx3">
-    <configuration name="ChangeVarEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.scanner.ChangeVarEx" />
+  <component name="RunManager" selected="Application.ArrayEx4">
+    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ArrayEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.scanner.*" />
+          <option name="PATTERN" value="variable.array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.scanner.ScannerEx5" />
+    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ArrayEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.scanner.*" />
+          <option name="PATTERN" value="variable.array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.scanner.ScannerWhileEx1" />
+    <configuration name="ArrayEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ArrayEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.scanner.*" />
+          <option name="PATTERN" value="variable.array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.scanner.ScannerWhileEx2" />
+    <configuration name="ArrayEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ArrayEx4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.scanner.*" />
+          <option name="PATTERN" value="variable.array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.scanner.ScannerWhileEx3" />
+    <configuration name="EnhancedFor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.array.EnhancedFor1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.scanner.*" />
+          <option name="PATTERN" value="variable.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerWhileEx3" />
-        <item itemvalue="Application.ScannerWhileEx2" />
-        <item itemvalue="Application.ScannerWhileEx1" />
-        <item itemvalue="Application.ScannerEx5" />
-        <item itemvalue="Application.ChangeVarEx" />
+        <item itemvalue="Application.ArrayEx4" />
+        <item itemvalue="Application.ArrayEx3" />
+        <item itemvalue="Application.ArrayEx2" />
+        <item itemvalue="Application.ArrayEx1" />
+        <item itemvalue="Application.EnhancedFor1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +167,8 @@
       <workItem from="1701409266633" duration="3865000" />
       <workItem from="1701646924173" duration="2191000" />
       <workItem from="1701664554395" duration="2563000" />
-      <workItem from="1701735519206" duration="10994000" />
+      <workItem from="1701735519206" duration="12209000" />
+      <workItem from="1701821517039" duration="3806000" />
     </task>
     <servers />
   </component>
