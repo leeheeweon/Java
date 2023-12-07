@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/Method1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodReturn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodReturn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/Overloading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/Overloading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/Overloading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx2Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx3Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +70,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="variable.method.ex" />
       <recent name="variable.method" />
       <recent name="variable.array.ex" />
       <recent name="variable.array" />
       <recent name="variable.scanner" />
-      <recent name="variable.casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Method2">
-    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ArrayEx6" />
+  <component name="RunManager" selected="Application.MethodEx4">
+    <configuration name="MethodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.method.ex.MethodEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.array.ex.*" />
+          <option name="PATTERN" value="variable.method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ArrayEx7" />
+    <configuration name="MethodEx1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.method.ex.MethodEx1Ref" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.array.ex.*" />
+          <option name="PATTERN" value="variable.method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,38 +104,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.method.Method1Ref" />
+    <configuration name="MethodEx3Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.method.ex.MethodEx3Ref" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.method.ex.MethodEx4" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.method.Overloading3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="variable.method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.method.Method2" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductAdminEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.array.ex.ProductAdminEx" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method1Ref" />
-        <item itemvalue="Application.ProductAdminEx" />
-        <item itemvalue="Application.ArrayEx7" />
-        <item itemvalue="Application.ArrayEx6" />
+        <item itemvalue="Application.MethodEx4" />
+        <item itemvalue="Application.MethodEx3Ref" />
+        <item itemvalue="Application.MethodEx1Ref" />
+        <item itemvalue="Application.MethodEx1" />
+        <item itemvalue="Application.Overloading3" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +172,8 @@
       <workItem from="1701664554395" duration="2563000" />
       <workItem from="1701735519206" duration="12209000" />
       <workItem from="1701821517039" duration="6264000" />
-      <workItem from="1701905734125" duration="1325000" />
+      <workItem from="1701905734125" duration="2740000" />
+      <workItem from="1701914995514" duration="6153000" />
     </task>
     <servers />
   </component>
