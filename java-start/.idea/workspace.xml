@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c61f1dd-4ee0-46b9-baf6-c036637d0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodCasting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodCasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodReturn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodReturn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/MethodValue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/Overloading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/Overloading2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/Overloading3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx2Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx3Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/method/ex/MethodEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +154,7 @@
       <workItem from="1701735519206" duration="12209000" />
       <workItem from="1701821517039" duration="6264000" />
       <workItem from="1701905734125" duration="2740000" />
-      <workItem from="1701914995514" duration="6153000" />
+      <workItem from="1701914995514" duration="7131000" />
     </task>
     <servers />
   </component>
