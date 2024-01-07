@@ -10,7 +10,7 @@ public class Main {
         String apb = "BEE6A8052A1BAD5BB1E40F4C0F8B1FD2";
         String iv = "5F1F6B63AAA65002";
 
-        String s = "111";
+        String s = "gisa2";
 
         SecretKeySpec skeySpec = new SecretKeySpec(apb.getBytes("UTF-8"), "AES");
 
